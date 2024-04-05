@@ -32,7 +32,7 @@
     "@cosmjs/proto-signing": "0.31.3",
     "@cosmjs/utils": "0.31.3",
     "@desmoslabs/desmjs": "workspace:packages/core",
-    "@keplr-wallet/types": "0.12.69",
+    "@keplr-wallet/types": "0.12.77",
     "cosmjs-types": "0.8.0"
   },
   "devDependencies": {

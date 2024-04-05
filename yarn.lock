@@ -4795,7 +4795,7 @@ __metadata:
     "@cosmjs/proto-signing": 0.31.3
     "@cosmjs/utils": 0.31.3
     "@desmoslabs/desmjs": "workspace:packages/core"
-    "@keplr-wallet/types": 0.12.69
+    "@keplr-wallet/types": 0.12.77
     "@types/jest": ^29.5.12
     "@types/node": ^20.8.8
     "@types/pino": ^7.0.5
@@ -6423,12 +6423,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@keplr-wallet/types@npm:0.12.69":
-  version: 0.12.69
-  resolution: "@keplr-wallet/types@npm:0.12.69"
+"@keplr-wallet/types@npm:0.12.77":
+  version: 0.12.77
+  resolution: "@keplr-wallet/types@npm:0.12.77"
   dependencies:
     long: ^4.0.0
-  checksum: 0cb277ac3880eab979da113063e5fa352582e3f7bcdeb0c3e06f9f5f12f7391a3c30760596d6a08bbf55cbba383f8c9a5e2203c2308bba5ef722af050f22ee7d
+  checksum: bfab5c8be9ba9379373c75746c6fc6c78df775e63709be61d26379259817d58c684bb01fd6ccb705460c4d5c4277d9da18055898df547e73bb146151ebfcf3da
   languageName: node
   linkType: hard
 
