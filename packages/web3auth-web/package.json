@@ -34,7 +34,7 @@
     "@desmoslabs/desmjs": "workspace:packages/core",
     "@web3auth/base": "^8.0.0",
     "@web3auth/modal": "^7.0.3",
-    "@web3auth/ui": "^8.0.0",
+    "@web3auth/ui": "^8.1.0",
     "cosmjs-types": "0.8.0"
   },
   "devDependencies": {
