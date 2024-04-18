@@ -20,7 +20,7 @@
     "@walletconnect/sign-client": "^2.11.2",
     "@walletconnect/types": "^2.9.0",
     "@walletconnect/utils": "^2.11.2",
-    "next": "14.1.0",
+    "next": "14.2.2",
     "pino-pretty": "^10.3.1",
     "react": "^18",
     "react-dom": "^18"
